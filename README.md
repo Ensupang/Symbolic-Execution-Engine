@@ -13,3 +13,7 @@ The implementation of the symbolic execution engine is located in directory wlan
 using the following command:
 
 (venv) $ python -m wlang.sym wlang/test1.prg
+
+But first of all, you need to set up z3 virtual environment using the link below:
+
+https://github.com/Z3Prover/z3
